@@ -1,2 +1,2 @@
 # eastwood
-A C++ format linter (CLine = Clint).
+A C++ format linter (CLint = Clint).
